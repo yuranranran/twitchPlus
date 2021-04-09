@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="twitchplus@twitchplus-database.c9iwuptpal5r.us-east-2.rds.amazonaws.com" uuid="09527cbf-e233-4b44-8bff-cb7d36ca9243">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://twitchplus-database.c9iwuptpal5r.us-east-2.rds.amazonaws.com:3306/twitchplus</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
